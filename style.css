@@ -2,6 +2,12 @@ body {
   background: lavender;
 }
 
+h1, h2 {
+  text-align: center;
+  color: purple;
+  font-family: monospace;
+}
+
 form {
   display: block;
   width: 300px;
@@ -25,7 +31,8 @@ button {
   display: block;
   margin: 0 auto;
   margin-top: 20px;
-  font-family: 'helvetica';
+  font-family: monospace;
+  color: green;
   font-size: 20px;
   width: 300px;
   text-align: center;
